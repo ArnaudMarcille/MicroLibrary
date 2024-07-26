@@ -8,7 +8,7 @@ export default new class CategoryService {
 
     //#region Private properties
 
-    #_baseURL: string = "http://openlibrary.org/subjects/{TOREPLACE}.json";
+    #_baseURL: string = "https://openlibrary.org/subjects/{TOREPLACE}.json";
 
     //#endregion
 

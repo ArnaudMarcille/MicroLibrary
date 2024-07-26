@@ -9,7 +9,7 @@ export default new class BookService {
 
     //#region Private properties
 
-    #_workUrl: string = "http://openlibrary.org/works/{TOREPLACE}.json";
+    #_workUrl: string = "https://openlibrary.org/works/{TOREPLACE}.json";
     #_editionsUrl: string = "https://openlibrary.org/works/{TOREPLACE}/editions.json";
     #_ratingUrl: string = "https://openlibrary.org/works/{TOREPLACE}/ratings.json";
     #_authorsUrl: string = "https://openlibrary.org/authors/{TOREPLACE}.json";

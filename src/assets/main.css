@@ -16,7 +16,7 @@
     }
 
     .TileItem{
-        @apply block shadow-md hover:shadow-2xl duration-200 m-4 max-w-64 rounded-lg bg-white dark:text-white;
+        @apply block shadow-md hover:shadow-2xl duration-200 m-4 max-w-64 rounded-lg bg-white;
     }
 
     .TileImgContainer{
